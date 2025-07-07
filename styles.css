@@ -66,7 +66,7 @@ button { cursor: pointer; }
 .grid { display: grid; }
 .button { 
     display: inline-flex; 
-    align-items: center; 
+    align-items: center;  
     column-gap: .5rem; 
     background-color: var(--skin-color); 
     color: var(--title-color); 
