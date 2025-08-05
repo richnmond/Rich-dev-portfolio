@@ -1,4 +1,4 @@
-# Hi, I'm richnmond 👋
+# Hi, I'm Richness Olarinoye👋
 
 I'm a passionate **Frontend Developer** with a drive for building interactive and user-friendly web applications. My toolkit includes:
 
